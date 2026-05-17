@@ -1,0 +1,70 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# Android / IntelliJ
+.idea/
+.gradle/
+build/
+*.iml
+*.ipr
+*.iws
+local.properties
+
+# iOS
+.xcprofile
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+.version
+generated/
+
+# iOS build
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.ftz
+ios/Flutter/ServiceDefinitions/
+
+# Build
+android/app/build/
+android/.gradle/
+build/
+
+# Environment
+.env
+.env.local
+*.env
+
+# Test
+coverage/
+
+# Misc
+.metadata
+pubspec.lock
